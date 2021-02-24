@@ -12,6 +12,8 @@ for(let i=0;i<5;i++)
 {
 
     setTimeout(function(){console.log(i); },100*i);
+    console.log("Hey Abhishek");
+    
 
 }
 //When we define in specific way,then you need to declare as below.
@@ -25,3 +27,4 @@ a="xyz";//valid because you have declared it as "any" keyword
 const x= 20;
 //as we have declare it as constant, typescript wont allow to declare it again with other value.
 //x=25;
+
