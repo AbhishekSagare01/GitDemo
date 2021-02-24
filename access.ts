@@ -9,7 +9,7 @@ console.log(my.getssn());
 function demo(birth:number) : number {
 
     return birth+10;
-    //cosole.log("hey");
+    console.log("hey");
     
 }
 
