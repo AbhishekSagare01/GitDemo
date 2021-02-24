@@ -10,6 +10,8 @@ function demo(birth:number) : number {
 
     return birth+10;
     console.log("hey");
+    console.log("hey");
+    console.log("hey");
     
 }
 
