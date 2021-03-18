@@ -2,6 +2,7 @@ function validatePhone(mobile) {
     console.log(mobile.colour);
     console.log(mobile.RAM);
     console.log(mobile.processor);
+    console.log("New development");
 }
 var LG = {
     colour: "black",
